@@ -25,8 +25,3 @@ Men **Ziyo Turakulov**, dasturchi, muhandis va o‘z g‘oyalarini hayotga tatbi
 - Kiberxavfsizlik asoslari
 - Tarmoq monitoring tizimlarini ishlab chiqish
 ---
-## 📫 Mening bilan bog'laning
-- LinkedIn: [https://www.linkedin.com/in/ziyoturakulov/](#)
-- Email: **ziyodullatoraqulov@gmail.com**
-- Telegram: [https://t.me/ZiyoTurakulov](#)
----
