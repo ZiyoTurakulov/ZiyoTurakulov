@@ -18,9 +18,6 @@ Men **Ziyo Turakulov**, dasturchi, muhandis va o‘z g‘oyalarini hayotga tatbi
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
-
-
 - 👨‍💻 Kod yozgan vaqtim: **1,200 soat**
 - 📂 Loyihalar soni: **50+**
 - 🚀 Faollik yili: **2020-yildan beri**
