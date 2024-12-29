@@ -1,6 +1,6 @@
 # Salom! 👋
 
-Men **[Ziyo Turakulov]**, dasturchi, muhandis va o‘z g‘oyalarini hayotga tatbiq etishni yoqtiradigan insonman. 👨‍💻
+Men **Ziyo Turakulov**, dasturchi, muhandis va o‘z g‘oyalarini hayotga tatbiq etishni yoqtiradigan insonman. 👨‍💻
 
 ---
 
