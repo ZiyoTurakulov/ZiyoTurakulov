@@ -13,6 +13,11 @@ Men **Ziyo Turakulov**, dasturchi, muhandis va o‘z g‘oyalarini hayotga tatbi
 
 ---
 
+- 👨‍💻 Kod yozgan vaqtim: **1,200 soat**
+- 📂 Loyihalar soni: **50+**
+- 🚀 Faollik yili: **2020-yildan beri**
+
+
 ## 🚀 Ko'nikmalarim
 
 ### Backend:
