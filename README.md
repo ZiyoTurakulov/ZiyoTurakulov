@@ -30,6 +30,3 @@ Men **Ziyo Turakulov**, dasturchi, muhandis va o‘z g‘oyalarini hayotga tatbi
 - Email: **ziyodullatoraqulov@gmail.com**
 - Telegram: [https://t.me/ZiyoTurakulov](#)
 ---
-## 💡 Shior
-> “Hech qachon to'xtama. Rivojlanish – bu eng yaxshi yo'l!”
----
