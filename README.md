@@ -22,7 +22,7 @@ Men **Ziyo Turakulov**, dasturchi, muhandis va o‘z g‘oyalarini hayotga tatbi
 
 ## 🚀 Ko'nikmalarim
 ### Backend:
-- PHP (Laravel, CodeIgniter, va o'zimning MVC arxitekturamni yaratmoqdaman)
+- PHP (Laravel va o'zimning MVC arxitekturamni yaratmoqdaman)
 - MySQL / PostgreSQL
 - Python (AI va tarmoq dasturlari)
 ### Frontend:
