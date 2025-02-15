@@ -19,19 +19,3 @@ Men **Ziyo Turakulov**, dasturchi, muhandis va o‘z g‘oyalarini hayotga tatbi
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
-## 🚀 Ko'nikmalarim
-### Backend:
-- PHP (Laravel va o'zimning MVC arxitekturamni yaratmoqdaman)
-- MySQL / PostgreSQL
-- Python (AI va tarmoq dasturlari)
-### Frontend:
-- HTML5, CSS3, JavaScript
-- CSS Frameworklar: **Bootstrap**, **Tailwind CSS**
-### O'yin dasturlash:
-- Unity, C#
-### Boshqa ko'nikmalar:
-- Git va GitHub
-- Kiberxavfsizlik asoslari
-- Tarmoq monitoring tizimlarini ishlab chiqish
----
